@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SubmitValue-Back
+//  Msg-AlertController
 //
-//  Created by 이재백 on 2016. 12. 17..
+//  Created by 이재백 on 2016. 12. 24..
 //  Copyright © 2016년 JaeBaek Lee. All rights reserved.
 //
 
@@ -12,11 +12,6 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    
-    // 값을 저장할 변수를 정의
-    var paramEmail: String? // 이메일 값을 전달받을 변수
-    var paramUpdate: Bool? // 자동 갱신 여부를 전달받을 변수
-    var paramInterval: Double? // 갱신주기 값을 전달받을 변수
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
