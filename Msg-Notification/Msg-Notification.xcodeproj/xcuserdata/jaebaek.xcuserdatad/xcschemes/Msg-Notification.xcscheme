@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1398AD4D1E0E208600A62B8F"
-               BuildableName = "Msg-AlertController.app"
-               BlueprintName = "Msg-AlertController"
-               ReferencedContainer = "container:Msg-AlertController.xcodeproj">
+               BlueprintIdentifier = "13CBBF4B1E10E12500B044AA"
+               BuildableName = "Msg-Notification.app"
+               BlueprintName = "Msg-Notification"
+               ReferencedContainer = "container:Msg-Notification.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1398AD4D1E0E208600A62B8F"
-            BuildableName = "Msg-AlertController.app"
-            BlueprintName = "Msg-AlertController"
-            ReferencedContainer = "container:Msg-AlertController.xcodeproj">
+            BlueprintIdentifier = "13CBBF4B1E10E12500B044AA"
+            BuildableName = "Msg-Notification.app"
+            BlueprintName = "Msg-Notification"
+            ReferencedContainer = "container:Msg-Notification.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1398AD4D1E0E208600A62B8F"
-            BuildableName = "Msg-AlertController.app"
-            BlueprintName = "Msg-AlertController"
-            ReferencedContainer = "container:Msg-AlertController.xcodeproj">
+            BlueprintIdentifier = "13CBBF4B1E10E12500B044AA"
+            BuildableName = "Msg-Notification.app"
+            BlueprintName = "Msg-Notification"
+            ReferencedContainer = "container:Msg-Notification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1398AD4D1E0E208600A62B8F"
-            BuildableName = "Msg-AlertController.app"
-            BlueprintName = "Msg-AlertController"
-            ReferencedContainer = "container:Msg-AlertController.xcodeproj">
+            BlueprintIdentifier = "13CBBF4B1E10E12500B044AA"
+            BuildableName = "Msg-Notification.app"
+            BlueprintName = "Msg-Notification"
+            ReferencedContainer = "container:Msg-Notification.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
